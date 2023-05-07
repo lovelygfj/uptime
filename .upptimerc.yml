@@ -9,6 +9,8 @@ sites:
     url: https://feather-veil-apparel.glitch.me/
   - name: Daki
     url: http://zeus.daki.cc:6006/
+  - name: Replit_IN_X3
+    url: https://x3.lovelygfj2.repl.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
