@@ -8,7 +8,7 @@ sites:
   - name: Glitch1
     url: https://feather-veil-apparel.glitch.me/
   - name: Daki
-    url: http://sparta.daki.cc:6006/
+    url: http://zeus.daki.cc:6006/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
