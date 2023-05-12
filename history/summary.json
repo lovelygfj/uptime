@@ -48,7 +48,7 @@
     "status": "up",
     "uptime": "91.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.04%",
+    "uptimeWeek": "73.33%",
     "uptimeMonth": "85.24%",
     "uptimeYear": "91.27%",
     "time": 303,
@@ -75,19 +75,19 @@
     "url": "https://x3.lovelygfj2.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/x3.lovelygfj2.repl.co.ico",
     "slug": "replit-in-x3",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 2772,
     "timeDay": 3690,
     "timeWeek": 2772,
     "timeMonth": 2772,
     "timeYear": 2772,
     "dailyMinutesDown": {
-      "2023-05-12": 91
+      "2023-05-12": 85
     }
   }
 ]
