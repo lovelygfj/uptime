@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zeus.daki.cc.ico",
     "slug": "daki",
     "status": "up",
-    "uptime": "91.27%",
+    "uptime": "91.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.40%",
+    "uptimeWeek": "74.55%",
     "uptimeMonth": "85.24%",
-    "uptimeYear": "91.27%",
+    "uptimeYear": "91.28%",
     "time": 303,
     "timeDay": 253,
     "timeWeek": 434,
@@ -75,19 +75,19 @@
     "url": "https://x3.lovelygfj2.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/x3.lovelygfj2.repl.co.ico",
     "slug": "replit-in-x3",
-    "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "93.67%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
     "time": 2999,
     "timeDay": 3971,
     "timeWeek": 2999,
     "timeMonth": 2999,
     "timeYear": 2999,
     "dailyMinutesDown": {
-      "2023-05-12": 91
+      "2023-05-12": 85
     }
   }
 ]
