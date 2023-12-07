@@ -103,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-12-07": 814,
+      "2023-12-07": 820,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -266,17 +266,17 @@
     "url": "https://x3.lovelygfj2.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/x3.lovelygfj2.repl.co.ico",
     "slug": "replit-in-x3",
-    "status": "up",
+    "status": "down",
     "uptime": "93.72%",
     "uptimeDay": "87.94%",
     "uptimeWeek": "85.33%",
     "uptimeMonth": "88.26%",
     "uptimeYear": "93.72%",
-    "time": 4373,
-    "timeDay": 4519,
-    "timeWeek": 3380,
-    "timeMonth": 4095,
-    "timeYear": 4373,
+    "time": 4369,
+    "timeDay": 3896,
+    "timeWeek": 3300,
+    "timeMonth": 4068,
+    "timeYear": 4369,
     "dailyMinutesDown": {
       "2023-12-07": 174,
       "2023-12-06": 164,
@@ -356,7 +356,7 @@
       "2023-07-06": 50,
       "2023-07-03": 241,
       "2023-07-02": 134,
-      "2023-06-30": 80
+      "2023-06-30": 56
     }
   }
 ]
