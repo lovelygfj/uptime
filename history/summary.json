@@ -92,18 +92,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/free.daki.cc.ico",
     "slug": "daki",
     "status": "down",
-    "uptime": "43.76%",
+    "uptime": "43.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.76%",
+    "uptimeYear": "43.75%",
     "time": 298,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-12-07": 1164,
+      "2023-12-07": 1231,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
@@ -266,12 +266,12 @@
     "url": "https://x3.lovelygfj2.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/x3.lovelygfj2.repl.co.ico",
     "slug": "replit-in-x3",
-    "status": "up",
-    "uptime": "93.72%",
-    "uptimeDay": "85.23%",
+    "status": "down",
+    "uptime": "93.73%",
+    "uptimeDay": "85.22%",
     "uptimeWeek": "84.94%",
     "uptimeMonth": "88.17%",
-    "uptimeYear": "93.72%",
+    "uptimeYear": "93.73%",
     "time": 4387,
     "timeDay": 5525,
     "timeWeek": 3960,
@@ -356,7 +356,7 @@
       "2023-07-06": 50,
       "2023-07-03": 241,
       "2023-07-02": 134,
-      "2023-06-30": 56
+      "2023-06-30": 30
     }
   }
 ]
