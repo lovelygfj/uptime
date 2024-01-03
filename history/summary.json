@@ -92,18 +92,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/x2.lovelygfj2.repl.co.ico",
     "slug": "replit-in-x2",
     "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "82.60%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.57%",
+    "uptimeDay": "76.37%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
     "time": 6723,
     "timeDay": 14251,
     "timeWeek": 9598,
     "timeMonth": 6723,
     "timeYear": 6723,
     "dailyMinutesDown": {
-      "2024-01-02": 249
+      "2024-01-03": 65,
+      "2024-01-02": 274
     }
   },
   {
