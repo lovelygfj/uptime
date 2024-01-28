@@ -58,35 +58,39 @@
     "url": "https://9931e56a-5708-4f5b-9106-c12a7dffbeeb-00-bz5t6i25ixe2.worf.replit.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/9931e56a-5708-4f5b-9106-c12a7dffbeeb-00-bz5t6i25ixe2.worf.replit.dev.ico",
     "slug": "replit-us",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 323,
+    "timeDay": 323,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   },
   {
     "name": "Replit_IN",
     "url": "https://15fbe78e-95f8-4704-92ef-ee3b56173e2f-00-2skk1g476w4as.sisko.replit.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/15fbe78e-95f8-4704-92ef-ee3b56173e2f-00-2skk1g476w4as.sisko.replit.dev.ico",
     "slug": "replit-in",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 976,
-    "timeWeek": 976,
-    "timeMonth": 976,
-    "timeYear": 976,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 967,
+    "timeDay": 967,
+    "timeWeek": 967,
+    "timeMonth": 967,
+    "timeYear": 967,
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   }
 ]
