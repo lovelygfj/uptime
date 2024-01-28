@@ -7,9 +7,11 @@ sites:
     url: https://utopian-titanium-rain.glitch.me/
   - name: Glitch1
     url: https://brook-amethyst-arrow.glitch.me/
-  - name: Replit_IN_X2
+  - name: Glitch1
+    url: https://lively-pitch-runner.glitch.me/   
+  - name: Replit_US
     url: https://x2.lovelygfj2.repl.co/
-  - name: Replit_IN_X3
+  - name: Replit_IN
     url: https://x3.lovelygfj2.repl.co/
 
 status-website:
