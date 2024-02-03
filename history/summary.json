@@ -4,19 +4,19 @@
     "url": "https://utopian-titanium-rain.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/utopian-titanium-rain.glitch.me.ico",
     "slug": "glitch-sohu",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 241,
-    "timeDay": 283,
-    "timeWeek": 241,
-    "timeMonth": 241,
-    "timeYear": 241,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 225,
+    "timeDay": 175,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-02-03": 2
+      "2024-02-03": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://brook-amethyst-arrow.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/brook-amethyst-arrow.glitch.me.ico",
     "slug": "glitch-nb",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 251,
-    "timeDay": 266,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 230,
+    "timeDay": 161,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-02-03": 1
+      "2024-02-03": 15
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 313,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2024-02-03": 246,
+      "2024-02-03": 260,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
@@ -100,7 +100,7 @@
     "timeMonth": 995,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2024-02-03": 246,
+      "2024-02-03": 260,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
