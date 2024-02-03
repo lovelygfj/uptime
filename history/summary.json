@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/utopian-titanium-rain.glitch.me.ico",
     "slug": "glitch-sohu",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.32%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 1839,
     "timeDay": 4725,
     "timeWeek": 1839,
     "timeMonth": 1839,
     "timeYear": 1839,
     "dailyMinutesDown": {
-      "2024-02-03": 52
+      "2024-02-03": 64
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://brook-amethyst-arrow.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/brook-amethyst-arrow.glitch.me.ico",
     "slug": "glitch-nb",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
     "time": 218,
     "timeDay": 174,
     "timeWeek": 218,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-02-03": 68
+      "2024-02-03": 70
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lively-pitch-runner.glitch.me.ico",
     "slug": "glitch-leyidar139-alibrs-com",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.04%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 294,
     "timeDay": 285,
     "timeWeek": 294,
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2024-02-03": 78
+      "2024-02-03": 89
     }
   },
   {
@@ -76,7 +76,7 @@
     "timeMonth": 313,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2024-02-03": 1270,
+      "2024-02-03": 1281,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
@@ -102,7 +102,7 @@
     "timeMonth": 995,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2024-02-03": 1270,
+      "2024-02-03": 1281,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
