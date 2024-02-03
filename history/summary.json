@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/utopian-titanium-rain.glitch.me.ico",
     "slug": "glitch-sohu",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.63%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 1839,
     "timeDay": 4725,
     "timeWeek": 1839,
     "timeMonth": 1839,
     "timeYear": 1839,
     "dailyMinutesDown": {
-      "2024-02-03": 42
+      "2024-02-03": 34
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/brook-amethyst-arrow.glitch.me.ico",
     "slug": "glitch-nb",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.60%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 234,
     "timeDay": 207,
     "timeWeek": 234,
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-02-03": 46
+      "2024-02-03": 38
     }
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://lively-pitch-runner.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/lively-pitch-runner.glitch.me.ico",
     "slug": "glitch-leyidar139-alibrs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "97.26%",
     "uptimeWeek": "99.58%",
@@ -76,7 +76,7 @@
     "timeMonth": 313,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2024-02-03": 1224,
+      "2024-02-03": 1231,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
@@ -102,7 +102,7 @@
     "timeMonth": 995,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2024-02-03": 1225,
+      "2024-02-03": 1231,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
