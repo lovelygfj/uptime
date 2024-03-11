@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 811,
-    "timeDay": 268,
-    "timeWeek": 166,
-    "timeMonth": 236,
-    "timeYear": 811,
+    "time": 1252,
+    "timeDay": 25953,
+    "timeWeek": 3372,
+    "timeMonth": 1069,
+    "timeYear": 1252,
     "dailyMinutesDown": {
       "2024-02-03": 66
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/brook-amethyst-arrow.glitch.me.ico",
     "slug": "glitch-nb",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 200,
-    "timeDay": 370,
-    "timeWeek": 197,
-    "timeMonth": 199,
-    "timeYear": 200,
+    "uptimeYear": "99.84%",
+    "time": 198,
+    "timeDay": 98,
+    "timeWeek": 154,
+    "timeMonth": 197,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2024-02-05": 15,
       "2024-02-03": 85
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 236,
-    "timeDay": 257,
-    "timeWeek": 179,
-    "timeMonth": 205,
-    "timeYear": 236,
+    "time": 235,
+    "timeDay": 170,
+    "timeWeek": 153,
+    "timeMonth": 207,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2024-02-03": 92
     }
