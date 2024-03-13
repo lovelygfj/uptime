@@ -24,7 +24,7 @@
     "url": "https://brook-amethyst-arrow.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/brook-amethyst-arrow.glitch.me.ico",
     "slug": "glitch-nb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 191,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2024-02-05": 15,
       "2024-02-03": 85
     }
