@@ -4,19 +4,19 @@
     "url": "https://utopian-titanium-rain.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/utopian-titanium-rain.glitch.me.ico",
     "slug": "glitch-sohu",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 1217,
-    "timeDay": 206,
-    "timeWeek": 3851,
-    "timeMonth": 1051,
-    "timeYear": 1217,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.89%",
+    "time": 1454,
+    "timeDay": 7813,
+    "timeWeek": 5297,
+    "timeMonth": 1500,
+    "timeYear": 1454,
     "dailyMinutesDown": {
-      "2024-03-13": 0,
+      "2024-03-13": 6,
       "2024-02-03": 66
     }
   },
@@ -25,7 +25,7 @@
     "url": "https://brook-amethyst-arrow.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/brook-amethyst-arrow.glitch.me.ico",
     "slug": "glitch-nb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 1103,
     "timeYear": 690,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2024-02-05": 15,
       "2024-02-03": 85
     }
