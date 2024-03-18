@@ -4,11 +4,11 @@
     "url": "https://utopian-titanium-rain.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/utopian-titanium-rain.glitch.me.ico",
     "slug": "glitch-sohu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.87%",
     "time": 2476,
     "timeDay": 520,
@@ -16,6 +16,7 @@
     "timeMonth": 3616,
     "timeYear": 2476,
     "dailyMinutesDown": {
+      "2024-03-18": 2,
       "2024-03-14": 23,
       "2024-02-03": 66
     }
@@ -26,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/brook-amethyst-arrow.glitch.me.ico",
     "slug": "glitch-nb",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 745,
     "timeDay": 218,
     "timeWeek": 3252,
@@ -48,7 +49,7 @@
     "url": "https://lively-pitch-runner.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/lively-pitch-runner.glitch.me.ico",
     "slug": "glitch-leyidar139-alibrs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
@@ -60,6 +61,7 @@
     "timeMonth": 2602,
     "timeYear": 1565,
     "dailyMinutesDown": {
+      "2024-03-18": 0,
       "2024-03-14": 22,
       "2024-02-03": 92
     }
